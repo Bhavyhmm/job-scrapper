@@ -1,0 +1,19 @@
+{
+  "keywords": [
+    "data engineer",
+    "software engineer",
+    "machine learning engineer",
+    "backend engineer"
+  ],
+  "websites": [
+    "indeed",
+    "glassdoor",
+    "linkedin"
+  ],
+  "recipient_email": "your-email@gmail.com",
+  "smtp_email": "your-email@gmail.com",
+  "smtp_password": "your-app-password",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "check_interval_minutes": 10
+}

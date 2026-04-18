@@ -1,0 +1,33 @@
+# Environment variables
+.env
+.env.local
+
+# Config with credentials (don't commit this)
+config.json
+
+# Logs
+*.log
+job_scraper.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Job database (will be managed by Git LFS if needed)
+# found_jobs.json  # We want to track this to avoid duplicates
